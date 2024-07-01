@@ -1,5 +1,3 @@
-# Configure-AWS-EKS-using-terraform
-
 
 - terraform init
 - terraform validate
