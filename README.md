@@ -1,9 +1,9 @@
 # Configure-AWS-EKS-using-terraform
 
 
-''terraform init
+'''terraform init
 terraform validate
 terraform plan
-terraform apply''
+terraform apply'''
 
-''aws eks --region <your region> update-kubeconfig --name demo''
+'''aws eks --region <your region> update-kubeconfig --name demo'''
