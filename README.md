@@ -1,7 +1,7 @@
 # Configure-AWS-EKS-using-terraform
 
 > [!NOTE]
-> terraform init
+> terraform init <br>
 > terraform validate
 > terraform plan
 > terraform apply
